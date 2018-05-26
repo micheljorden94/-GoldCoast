@@ -1,0 +1,28 @@
+#gallery{
+	margin: 100px auto;
+	width: 1000px;
+}
+#galleryList{
+	width: 600px;
+	text-align: center;
+}
+h1{
+	color: #c60;
+}
+ul{
+	list-style: none;
+}
+ul li{
+	display: inline-block;
+	margin-right: 25px;
+}
+a{
+	text-decoration: none;
+	color: #c60;
+}
+#description img{
+	width: 600px;
+	height: 400px;
+	box-shadow: 8px 8px 20px #bbb;
+	border-radius: 15px;
+}
